@@ -4,10 +4,10 @@ services:
     image: jupyter/scipy-notebook
     ports: 
       - 8888:8888
-  superset:
-    image: tylerfowler/superset
+  grafana:
+    image: grafana/grafana
     ports:
-      - 8088:8088
+      - 3000:3000
   postgres:
     image: postgres
     ports:
