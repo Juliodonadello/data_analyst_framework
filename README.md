@@ -1,11 +1,7 @@
 # data_analyst_framework
 Create a work environment that combines useful services to easily manipulate and visualize data.
-
-
-![](data/image/data_anal_framework.jpg)
-
 <p align="center">
-  <img src="data/image/data_anal_framework.jpg" alt="Alt Text">
+  <img src="data/image/data_anal_framework.jpg">
 </p>
 
 ------
