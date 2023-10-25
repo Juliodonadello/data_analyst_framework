@@ -8,3 +8,4 @@ Create a work environment that combines useful services to easily manipulate and
 To do:
   - Integrate **Minio** to Persist models in binary files and every other data that doesn't have a traditional tabular structure.
   - Develop an api with **FastAPI** to deploy the model.
+  - Integrate an **Airflow** container to schedule runs.
